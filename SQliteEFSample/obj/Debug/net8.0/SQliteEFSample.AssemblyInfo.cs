@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQliteEFSample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fac64ebae0635cefcbc4f449f7b54f6cbd274082")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQliteEFSample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQliteEFSample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
